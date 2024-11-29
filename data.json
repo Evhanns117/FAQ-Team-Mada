@@ -1,0 +1,20 @@
+[
+  { 
+    "question": "Où se trouve la tour Eiffel ?", 
+    "answer": "La tour Eiffel se trouve à Paris, en France.",
+    "city": "Paris", 
+    "coords": [48.8588443, 2.2943506] 
+  },
+  { 
+    "question": "Quelle est la capitale du Japon ?", 
+    "answer": "La capitale du Japon est Tokyo.",
+    "city": "Tokyo", 
+    "coords": [35.6895, 139.6917] 
+  },
+  { 
+    "question": "Quel est le désert le plus grand du monde ?", 
+    "answer": "Le plus grand désert est le Sahara, en Afrique.",
+    "city": "Sahara", 
+    "coords": [23.4162, 25.6628] 
+  }
+]
